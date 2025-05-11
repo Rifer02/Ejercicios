@@ -16,8 +16,7 @@ public class Ejercicio2 {
             System.out.print("Ingrese la nota " + (i + 1) + ": ");
             notas[i] = sc.nextInt();
         }
-
-        // Contar aprobados y desaprobados
+        
         for (int i = 0; i < n; i++) {
             if (notas[i] >= 6) {
                 aprobados++;
