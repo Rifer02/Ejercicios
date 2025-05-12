@@ -44,5 +44,6 @@ public class Ejercicio4 {
         }
 
         sc.close();
+        
     }
 }
