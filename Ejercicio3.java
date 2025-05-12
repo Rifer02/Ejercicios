@@ -29,5 +29,6 @@ public class Ejercicio3 {
                 System.out.println("Producto " + (i + 1) + " con precio: " + precioProducto);
             }
         }
+        sc.close();
     }
 }
